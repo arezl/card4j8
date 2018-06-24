@@ -12,9 +12,9 @@ sdfsd
 [ ] 部署到centens上
 
 
-	1. [] 部署到centens上
-	2. [] 开发一个netcore的websockt工程
-	3. [] 安装netcore 
+	1. [ ] 部署到centens上
+	2. [ ] 开发一个netcore的websockt工程
+	3. [ ] 安装netcore 
 
 
 
